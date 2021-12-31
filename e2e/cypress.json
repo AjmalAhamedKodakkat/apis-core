@@ -1,5 +1,12 @@
 {
   "baseUrl": "https://api.dev.theapis.io",
+  "apisCoreApiKey": "3ac0a9e3-4640-4d40-ac7d-4f006ef535c4",
+  "contractAddress1":"0x1733D3cFD18e1A7EeCA54A78296cB54bfE08b593",
+  "contractAddress2":"0xe0Be1756E12e2d9219c6694ff95d52776d9894b0",
+  "contractAddress3":"0x96d40b8b75CBad7BA29AeFeB87c6FE15735b9b97",
+  "accountAddress1":"0x8c492498Cf819F5b794b613e0A8c6eb3265073F2",
+  "accountAddress2": "0xc8bA9a0e6431a08D3032d8d77C2227cD884605eE",
+  "privateKey1":"29449154390efb2b172676cc1f19d0de08d7009f86a64311193f7e75208d7be9",
   "pluginsFile": false,
   "supportFile": false,
   "fixturesFolder": false,
